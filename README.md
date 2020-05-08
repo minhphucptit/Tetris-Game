@@ -1,4 +1,4 @@
-# Tetris-Game
+# Tro choi xep hinh co ban
 W - Rotate
 ,A - Move Left
 ,D - Move Right
